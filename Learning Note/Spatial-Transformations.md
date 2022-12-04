@@ -39,4 +39,4 @@ For different transformation, we should focus on invariants preserved during the
 $$f_{\theta}(x) = \left[\begin{matrix} cos\theta & -sin\theta \\
                                  sin\theta & cos\theta \end{matrix} \right] \left[ \begin{matrix} x_{1} & x_{2} \end{matrix} \right]^{T}$$
   
-  In the above matrix representation, we can treat $ \left[ \begin{matrix} cos\theta & sin\theta \end{matrix} \right]^{T} $
+  In the above matrix representation, we can treat $\left[\begin{matrix} cos\theta sin\theta \end{matrix} \right]^{T}$
