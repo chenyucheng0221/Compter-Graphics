@@ -86,11 +86,15 @@ $$Q^{T}Q = I$$, but it does not stand rotation transformation, since it fails to
 
 - **Representation Matrix**
 
-  1. $(u_{1}, u_{2}, u_{3})$ scale by $a$
+1. Nonnegtive scale
+
+- $(u_{1}, u_{2}, u_{3})$ scale by $a$
 
 $$\left[\begin{matrix}a & 0 & 0 \\ 
                       0 & a & 0 \\ 
                       0 & 0 & a \end{matrix} \right]$$
+                      
+- $(u_{1}, u_{2}, u_{3})$ scale by $a, b, c$
 
 $$\left[\begin{matrix}a & 0 & 0 \\ 
                       0 & b & 0 \\ 
